@@ -6,8 +6,7 @@
 
 ##### Ordem dos conteúdos do repositório
 
-**1** estrutura-de-dados
-
+**1** estrutura-de-dados\n
 **2** introducao-biblioteca-pandas
 **3** trabalhando-com-planilhas-excel
 **4** trabalhando-com-datas
